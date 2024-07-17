@@ -1,5 +1,5 @@
 # React + Vite
-(https://6698105c27625f197f080a1f--subtle-manatee-76bb1c.netlify.app/favorites)
+(https://6698105c27625f197f080a1f--subtle-manatee-76bb1c.netlify.app/)
 #
 npm install.
 #
