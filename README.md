@@ -1,4 +1,9 @@
 # React + Vite
+(https://6698105c27625f197f080a1f--subtle-manatee-76bb1c.netlify.app/favorites)
+#
+npm install.
+#
+npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
